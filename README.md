@@ -1,16 +1,12 @@
-## Hi there 👋
+## Salve Salve
 
-<!--
-**Lucca0404/Lucca0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quem sou?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Sou um amante da matemática e filosofia que se encontrou nas linhas de código de um computador 💻.
+  <br>
+  <br>
+  Atualmente estou cursando ciência da computação e estou no segundo semestre 🧑🏻‍🏫
+  <br>
+  <br>
+  Tenho muito insteresse pelas áreas de desenvolvimento de sistemas e pesquisa nas áreas da computação quântica e Inteligência Artificial 🔍
+</p>
