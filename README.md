@@ -8,5 +8,5 @@
   Atualmente estou cursando ciência da computação e estou no segundo semestre 🧑🏻‍🏫
   <br>
   <br>
-  Tenho muito insteresse pelas áreas de pesquisa, principalmente relacionadas a matemática pura 🔍
+  Tenho muito insteresse pelas áreas de pesquisa, principalmente relacionadas a matemática pura e computação quântica 🔍
 </p>
